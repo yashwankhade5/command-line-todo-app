@@ -12,7 +12,7 @@ A simple command-line to-do list application built with Node.js. This app allows
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yashwankhade5/todo-cli-app.git
+   git clone https://github.com/yashwankhade5/command-line-todo-app.git
    ```
 
 2. Navigate to the project directory:
