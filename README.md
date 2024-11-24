@@ -1,8 +1,3 @@
-# command-line-todo-app
-Here's a simple README file you can use for your GitHub repository based on the information about your command-line to-do app:
-
----
-
 # Command Line Todo App
 
 A simple command-line to-do list application built with Node.js. This app allows users to manage their tasks by adding, deleting, and clearing tasks. All tasks are stored in a `todo.json` file, providing persistence between app runs.
